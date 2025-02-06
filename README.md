@@ -21,13 +21,13 @@
 <h1 align="center">Hey, What's up? Welcome to my Profile</h1>
 
 ###
-<h3 align="left">🙎My name is Md.Sihab Hossain <br>👨🏿‍💻I'm a Front-End Web Developer<br>🏘️From Bangladesh</h3>
+<h3 align="left">🙎My name is Md.Sihab Hossain <br>👨🏿‍💻I'm a Frontend Developer<br>🏘️From Bangladesh</h3>
 
 
 ###
 
 
-<h3 align="center">👩‍💻  As a Professional Front-End Web developer from Bangladesh</h3>
+<h3 align="center">👩‍💻  As a Professional Frontend Web developer from Bangladesh</h3>
 
 
 ###
