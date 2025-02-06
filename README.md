@@ -30,7 +30,7 @@
 
 
 
-<p align="left">I am searching for the role of Frontend Developer at an innovative company where I can utilize my previous experience in designing, coding, testing, debugging, and deploying software and web applications. I have 2-3 years of professional experience in software and web applications-related field.</p>
+<p align="left">I am searching for the role of Frontend Developer at an innovative company where I can utilize my previous experience in designing, coding, testing, debugging, and deploying software and web applications. I have 1 Year's experience in software and web applications-related field.</p>
 
 ###
 <h2 align="left">About me 👇</h2>
